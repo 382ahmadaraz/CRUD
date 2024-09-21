@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(235, 220, 248);
+    /* color: white; */
+}
+
+table{
+    position: absolute;
+    bottom: 0;
+    background-color: rgb(235, 220, 248);
+
+}
